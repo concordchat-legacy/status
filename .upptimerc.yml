@@ -13,7 +13,7 @@ assignees:
 status-website:
   cname: status.concord.chat
   logoUrl: https://raw.githubusercontent.com/concordchat/branding/main/mascot.svg
-  theme: dark
+  theme: night
   name: Concord
   introTitle: "Ultra-fast, Scalable, Open-Source Chat Platform."
   introMessage: This is the **tempoary** status page for Concords Officially Hosted Services.
