@@ -17,7 +17,7 @@ status-website:
   theme: night
   name: Concord
   introTitle: "Ultra-fast, Scalable, Open-Source Chat Platform."
-  introMessage: This is the **tempoary** status page for Concords Officially Hosted Services.
+  introMessage: This is the status page for Concords Services.
   navbar:
     - title: Home
       href: /
