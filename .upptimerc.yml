@@ -10,6 +10,15 @@ sites:
 assignees:
   - VincentRPS
 
+workflowSchedule:
+  graphs: "6 * * * *"
+  responseTime: "0 * * * *"
+  staticSite: "0 1 * * *"
+  summary: "15 * * * *"
+  updateTemplate: "0 0 * * *"
+  updates: "30 3 * * *"
+  uptime: "3 * * * *"
+
 status-website:
   cname: status.concord.chat
   logoUrl: https://raw.githubusercontent.com/concordchat/branding/main/mascot.svg
