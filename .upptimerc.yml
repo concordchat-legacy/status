@@ -4,7 +4,11 @@ repo: status
 sites:
   - name: Proxy/Home
     url: https://concord.chat
+    expectedStatusCodes:
+      - 200
+      - 404
   - name: API
+    method: GET
     url: https://concord.chat/api/v5/auth/fingerprint
 
 assignees:
