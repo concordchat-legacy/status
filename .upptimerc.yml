@@ -2,7 +2,7 @@ owner: concordchat
 repo: status
 
 sites:
-  - name: Proxy/Home
+  - name: Web App
     url: $APP_RAW_URL
     expectedStatusCodes:
       - 200
