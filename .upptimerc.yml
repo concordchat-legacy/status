@@ -9,7 +9,7 @@ sites:
       - 404
   - name: API
     method: GET
-    url: https://concord.chat/api/v5/auth/fingerprint
+    url: $API_RAW_URL
 
 assignees:
   - VincentRPS
