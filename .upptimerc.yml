@@ -3,7 +3,7 @@ repo: status
 
 sites:
   - name: Proxy/Home
-    url: https://concord.chat
+    url: $APP_RAW_URL
     expectedStatusCodes:
       - 200
       - 404
